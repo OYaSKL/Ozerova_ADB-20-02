@@ -1,2 +1,1 @@
-# Ozerova_ADB-20-02
-lR 6
+This is home task number 6
